@@ -17,7 +17,7 @@ baseurl:          '/'
 # Build Settings
 remote_theme: fongandrew/hydeout
 
-author: Voyager28
+author: 
   name:           'Voyager28'
   url:            https://twitter.com/fongandrewc
 
