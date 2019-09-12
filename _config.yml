@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Voyager
+title:            Voyager28
 tagline:          'Through Time & Space'
-description:      'A voyager's notes'
+description:      'A voyagers notes'
 url:              https://fongandrew.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
